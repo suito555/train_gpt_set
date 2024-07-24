@@ -4,5 +4,5 @@ Jupyter Notebookで作成しており、このコードを改造することで�
 <br>
 ### 必要なライブラリ
 ```
-pip install torch transformers sentencepiece
+pip install torch transformers sentencepiece tensorboard
 ```
